@@ -32,5 +32,5 @@ The project is organized into the following folders and files:
 #### • Easier maintenance – You can modify one layer without affecting the others.
 #### • Scalability – New features can be added without disrupting the existing structure.
 #### • Reusability – Code can be reused across different parts of the application.
-6. Conclusion
+## 6. Conclusion
 By following the MVC architecture, this project achieves a clean, modular, and maintainable structure. This approach helps in scaling the application and makes it easier for multiple developers to work on different parts of the project without conflicts.
