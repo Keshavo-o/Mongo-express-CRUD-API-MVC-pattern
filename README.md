@@ -15,12 +15,12 @@ MVC stands for Model–View–Controller. It is a software design pattern common
 ## 3. Project Structure
 The project is organized into the following folders and files:
 
-### • Controllers/ – Contains controller functions for handling specific routes.
-### • Models/ – Contains Mongoose schemas and models for MongoDB.
-### • Routes/ – Defines application routes and maps them to controllers.
-### • Middlewares/ – Contains middleware functions for request logging, validation, etc.
-### • Database conn/ – Contains database connection logic.
-### • app.js – Main entry point of the application, sets up Express, middleware, and routes.
+#### • Controllers/ – Contains controller functions for handling specific routes.
+#### • Models/ – Contains Mongoose schemas and models for MongoDB.
+#### • Routes/ – Defines application routes and maps them to controllers.
+#### • Middlewares/ – Contains middleware functions for request logging, validation, etc.
+#### • Database conn/ – Contains database connection logic.
+#### • app.js – Main entry point of the application, sets up Express, middleware, and routes.
 ## 4. Example Flow in This Project
 1. A GET request is sent to `/users/123`.
 2. Middleware checks if the user with ID 123 exists.
