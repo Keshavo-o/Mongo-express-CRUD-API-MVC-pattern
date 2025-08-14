@@ -28,9 +28,9 @@ The project is organized into the following folders and files:
 4. The controller fetches the user from the database using the `user` model.
 5. The controller returns the user data as a JSON response.
 ## 5. Benefits of Using MVC
-• Separation of concerns – Each part of the application has its own responsibility.
-• Easier maintenance – You can modify one layer without affecting the others.
-• Scalability – New features can be added without disrupting the existing structure.
-• Reusability – Code can be reused across different parts of the application.
+#### • Separation of concerns – Each part of the application has its own responsibility.
+#### • Easier maintenance – You can modify one layer without affecting the others.
+#### • Scalability – New features can be added without disrupting the existing structure.
+#### • Reusability – Code can be reused across different parts of the application.
 6. Conclusion
 By following the MVC architecture, this project achieves a clean, modular, and maintainable structure. This approach helps in scaling the application and makes it easier for multiple developers to work on different parts of the project without conflicts.
